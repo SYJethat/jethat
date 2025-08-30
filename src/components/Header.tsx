@@ -97,7 +97,7 @@ const Header = () => {
               />
             </motion.div>
             <span className="text-2xl font-bold bg-gradient-to-r from-primary-500 to-accent-500 bg-clip-text text-transparent">
-              JetHat
+              ShrinkAI - Solution
             </span>
           </Link>
 
