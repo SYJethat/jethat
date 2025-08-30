@@ -1,6 +1,6 @@
 
 import { motion } from 'framer-motion';
-import { Brain, Users, BookOpen, GraduationCap, Video, Languages, Building, ArrowRight } from 'lucide-react';
+import {Shield , Brain, Users, BookOpen, GraduationCap, Video, Languages, Building, ArrowRight } from 'lucide-react';
 
 const Products = () => {
   const products = [
